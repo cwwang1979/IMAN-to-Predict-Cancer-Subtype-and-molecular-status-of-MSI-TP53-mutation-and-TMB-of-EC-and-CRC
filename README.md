@@ -1,4 +1,4 @@
-# Identify Tumor Mutation Burden, Microsatellite Instability and Cancer Subtype of Colorectal Cancer and TP53,  Microsatellite Instability and Cancer Subtype of Endometrial Cancer directly from H\&E Images
+# Interpretable Multi-stage Attention Network for Cancer Subtyping and Molecular Classification directly from Histopathological Slides of Colorectal and Endometrial Cancer
 Interpretable Multi-stage Attention deep learning Network (IMAN) to predict pathological subtype, TMB, MSI and TP53 status by integrating and correlating local and global features in a WSI using multi-level and multi-stage attention mechanisms to generate robust final-slide predictions of the H\&E stained whole slide images (WSIs) in colorectal cancer (CRC) patients and the H\&E stained tissue microarrays (TMAs).
 
 ## Datasets
