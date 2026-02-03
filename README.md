@@ -1,7 +1,7 @@
 # Interpretable Multi-stage Attention Network to Predict Cancer Subtype, Microsatellite Instability, TP53 mutation and TMB of Endometrial and Colorectal Cancer
 
-## Associated Publications
-Wang et al. (In submission) Interpretable Multi-stage Attention Network to Predict Cancer Subtype and Molecular Status of Microsatellite Instability, TP53 mutation and Tumor Mutational Burden of Endometrial and Colorectal Cancer
+## Associated Publications (Please cite the paper if using any part of this study).
+Wang* et al. (2025) Interpretable Multi-stage Attention Network to Predict Cancer Subtype, Microsatellite Instability, TP53 mutation and TMB of Endometrial and Colorectal Cancer, Computerized Medical Imaging and Graphics, 121(102499), 1-16 (JCR 2024: IF=4.9, Q1 25/212 RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING) [First author & *Corresponding author]
 
 ## Datasets
 ### Endometrial Cancer
